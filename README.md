@@ -1,5 +1,3 @@
-# Color-Sorting-Delivery-Robot
-
 # Color-Sorting Delivery Robot
 
 **STM32-Based Autonomous Mobile Robot | PID Control | Finite State Machine | Embedded Systems**
